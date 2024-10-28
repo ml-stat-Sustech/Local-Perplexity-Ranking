@@ -20,7 +20,7 @@ If you find this useful in your research, please consider citing:
 @article{gao2024noise,
   title={On the Noise Robustness of In-Context Learning for Text Generation},
   author={Gao, Hongfu and Zhang, Feipeng and Jiang, Wenyu and Shu, Jun and Zheng, Feng and Wei, Hongxin},
-  journal={arXiv preprint arXiv:2405.17264},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2024}
 }
 ```
